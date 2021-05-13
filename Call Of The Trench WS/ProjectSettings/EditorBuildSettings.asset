@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectScreen.unity
+    guid: c5fb4089e8e76454792d99ccdfc98825
+  - enabled: 1
+    path: Assets/Scenes/GBRScene.unity
+    guid: e741fff579eb36f44a894388fd4379f9
+  - enabled: 1
+    path: Assets/Scenes/SwimScene.unity
+    guid: 9a64ba12ef6fdbc469fb28182a7d6800
+  - enabled: 1
+    path: Assets/Scenes/PNGScene.unity
+    guid: d4e7fd7412fd9fb4a85515f976823543
+  - enabled: 1
+    path: Assets/Scenes/MTScene.unity
+    guid: ce7adcce408e8ba4987e853ff25771a1
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: da8404aeb9c88eb419f9b7658fe37022
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 98afc639e13cf844fb17e13c4d38335c
+  m_configObjects: {}
